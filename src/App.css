@@ -12,6 +12,11 @@ main {
   padding: 72px 0;
   text-align: center;
 }
+
+*{
+  background:#233;
+  color:white;
+}
 h1 {
   font-size: 45px;
 }
